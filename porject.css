@@ -1,0 +1,176 @@
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content:space-between;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+}
+
+   
+.list ul
+{
+    list-style: none;
+    display: flex;
+    gap: 35px;
+}
+.img1
+{
+    height: auto;
+    width: 100%;
+}
+.sep
+{
+    height: 100px;
+    background-color: white;
+}
+.body
+{
+    display: flex;
+    flex-direction: row;
+    padding-left: 180px;
+    padding-right: 180px;
+    gap: 80px;
+  
+}
+.cont1 .t1 
+{
+    text-align: center;
+    
+}
+.t1
+{
+    font-size: 70px;
+    margin: 60px;
+}
+.t2
+{
+    font-size: 50px;
+    margin: 20px;
+    text-align: center;
+}
+.t3
+{
+    font-size: 20px;
+    float: left;
+    
+}
+.t4
+{
+    font-size: 20px;
+    float: left;
+}
+.img2 img
+{
+    height: 600px;
+}
+.menu
+{
+    display: flex;
+    flex-direction: row;
+    padding-left: 180px;
+    padding-right: 180px;
+    gap: 80px;
+}
+.t5
+{
+    font-size: 60px;
+    text-align: center;
+    /* gap: 20px; */
+}
+.t6
+{
+    font-size: 25px;
+}
+.t7
+{
+    font-size: 20px;
+}
+.img3 img
+{
+    height: 600px;
+    width: 500px;
+}
+.sep1
+{
+    height:35px ;
+}
+.line
+{
+    height: 3px;
+    background-color: gray;
+    margin-bottom: 30px;
+    width: 60vw;
+    margin-left: 260px;
+    opacity: 0.2;
+}
+.contact h2
+{
+    font-size: 48px;
+    margin-bottom: 40px;
+}
+.contact
+{
+    margin-left: 170px;
+}
+.t9
+{
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.info
+{
+    display: flex;
+    flex-direction: column;
+    margin-right: 150px;
+}
+.info input
+{
+    height: 40px;
+    width: 70vw;
+    border: none;
+    
+    
+}
+.line2
+{
+    height: 1px;
+    background-color: gray;
+    margin-bottom: 30px;
+    width: 70vw;
+    
+    margin-right: 60px;
+    opacity: 0.2;
+}
+.but
+{
+    height: 40px;
+    width: 140px;
+}
+footer
+{
+    height: 100px;
+    background-color: rgb(161, 156, 156);
+}
+.alpha
+{
+    /* color: white; */
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+header
+{
+    position: sticky;
+    top: 0px;    
+}
